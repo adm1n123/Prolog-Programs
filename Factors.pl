@@ -14,7 +14,7 @@ factors(N, Ans):-
 
 
 
-% List all factors of N ***********************************************
+% List all factors of N THIS IS STACKOVERFLOW CODE DON'T COPY ****************
 divides(N,D) :-
     0 is N mod D.
 
